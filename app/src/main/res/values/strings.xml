@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">PADC-SFC-News</string>
     <string name="title_activity_news_list">NewsListActivity</string>
-    <string name="btn_comment_news">Comment</string>
-    <string name="btn_send_to_news">Send To</string>
 </resources>

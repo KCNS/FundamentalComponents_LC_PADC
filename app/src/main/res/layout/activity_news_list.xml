@@ -27,12 +27,12 @@
         tools:context="com.padcmm.sfc.activities.NewsListActivity"
         tools:showIn="@layout/activity_news_list">
 
-        <android.support.v7.widget.RecyclerView
-            android:id="@+id/rv_news"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello World!"
+            android:layout_centerInParent="true" />
 
-        </android.support.v7.widget.RecyclerView>
     </RelativeLayout>
 
     <!-- <include layout="@layout/content_news_list" />-->
